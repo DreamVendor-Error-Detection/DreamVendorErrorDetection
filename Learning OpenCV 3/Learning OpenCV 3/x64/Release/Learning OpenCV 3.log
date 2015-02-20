@@ -1,0 +1,10 @@
+﻿Build started 2/20/2015 10:39:49 AM.
+     1>Project "C:\Users\johng_000\Google Drive\Spring 2015\Research\Learning OpenCV 3\Learning OpenCV 3\Learning OpenCV 3.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\OpenCV\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt "Example 2-3.cpp"
+         Example 2-3.cpp
+     1>Done Building Project "C:\Users\johng_000\Google Drive\Spring 2015\Research\Learning OpenCV 3\Learning OpenCV 3\Learning OpenCV 3.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.82
