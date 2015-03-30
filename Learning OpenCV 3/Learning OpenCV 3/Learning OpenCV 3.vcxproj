@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Example 2-3.cpp" />
+    <ClCompile Include="BackgroundSubtraction.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7B84CDA4-F154-4372-8473-5459EE6B12EC}</ProjectGuid>
